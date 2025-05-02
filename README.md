@@ -39,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/JV456/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JV456/Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
