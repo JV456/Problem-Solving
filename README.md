@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JV456/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
