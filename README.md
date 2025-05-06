@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JV456/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JV456/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/JV456/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/JV456/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 ## Sliding Window
 |  |
 | ------- |
