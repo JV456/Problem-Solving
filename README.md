@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JV456/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JV456/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0806-domino-and-tromino-tiling](https://github.com/JV456/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 ## Trie
