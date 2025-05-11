@@ -10,7 +10,8 @@ public:
         for(char &ch : t){
             count[ch-'a']--;
         }
-
+        
+        // lamda
         bool allZeros = all_of(begin(count), end(count), [](int element){
             return element == 0;
         });
