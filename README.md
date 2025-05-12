@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JV456/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JV456/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/JV456/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/JV456/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JV456/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/JV456/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JV456/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
