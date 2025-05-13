@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/JV456/Problem-Solving/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/JV456/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/JV456/Problem-Solving/tree/master/1168-duplicate-zeros) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JV456/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/JV456/Problem-Solving/tree/master/0475-heaters) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/JV456/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Greedy
 |  |
