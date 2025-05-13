@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JV456/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JV456/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JV456/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/JV456/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JV456/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JV456/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JV456/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JV456/Problem-Solving/tree/master/3637-count-number-of-balanced-permutations) |
