@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/JV456/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/JV456/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JV456/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/JV456/Problem-Solving/tree/master/0475-heaters) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/JV456/Problem-Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
