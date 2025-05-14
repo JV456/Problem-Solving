@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/JV456/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JV456/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/JV456/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JV456/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0806-domino-and-tromino-tiling](https://github.com/JV456/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
