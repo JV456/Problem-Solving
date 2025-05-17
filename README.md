@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/JV456/Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JV456/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JV456/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JV456/Problem-Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JV456/Problem-Solving/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
