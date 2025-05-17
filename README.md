@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/JV456/Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/JV456/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/JV456/Problem-Solving/tree/master/0492-construct-the-rectangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JV456/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JV456/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/JV456/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JV456/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/JV456/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/JV456/Problem-Solving/tree/master/0475-heaters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/JV456/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
