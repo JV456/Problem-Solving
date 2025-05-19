@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/JV456/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/JV456/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/JV456/Problem-Solving/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
 ## Memoization
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
