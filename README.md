@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JV456/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JV456/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/JV456/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 ## Combinatorics
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JV456/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
