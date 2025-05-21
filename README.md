@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/JV456/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/JV456/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/JV456/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JV456/Problem-Solving/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/JV456/Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JV456/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
