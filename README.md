@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JV456/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
+| [0228-summary-ranges](https://github.com/JV456/Problem-Solving/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JV456/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
