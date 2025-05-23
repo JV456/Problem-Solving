@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/JV456/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/JV456/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JV456/Problem-Solving/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/JV456/Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JV456/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JV456/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/JV456/Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
