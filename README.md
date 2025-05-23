@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JV456/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JV456/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/JV456/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JV456/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JV456/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JV456/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/JV456/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/JV456/Problem-Solving/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JV456/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JV456/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JV456/Problem-Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JV456/Problem-Solving/tree/master/3637-count-number-of-balanced-permutations) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JV456/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
 | ------- |
@@ -322,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/JV456/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
