@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JV456/Problem-Solving/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/JV456/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/JV456/Problem-Solving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JV456/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/JV456/Problem-Solving/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
