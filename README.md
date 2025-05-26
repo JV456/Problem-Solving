@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/JV456/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JV456/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JV456/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JV456/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/JV456/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JV456/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JV456/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
