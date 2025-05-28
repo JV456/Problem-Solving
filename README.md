@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/JV456/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/JV456/Problem-Solving/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/JV456/Problem-Solving/tree/master/0367-valid-perfect-square) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/JV456/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JV456/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JV456/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/JV456/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JV456/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JV456/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JV456/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JV456/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JV456/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
