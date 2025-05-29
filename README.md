@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JV456/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JV456/Problem-Solving/tree/master/0031-next-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JV456/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/JV456/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/JV456/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JV456/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JV456/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
