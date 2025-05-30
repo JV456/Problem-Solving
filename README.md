@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/JV456/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JV456/Problem-Solving/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/JV456/Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JV456/Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/JV456/Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JV456/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JV456/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JV456/Problem-Solving/tree/master/0062-unique-paths) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JV456/Problem-Solving/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
