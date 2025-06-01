@@ -1,53 +1,31 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
-// User function template for C++
-
 class Solution {
   public:
     // Function to check if a string is a palindrome.
-    bool isPalindrome(string& s) {
-        int len = s.length();
-
-        for (int i = 0; i < len / 2; i++){
-
-            if (s[i] != s[len - i - 1])
-
-                return 0;
+    
+    bool isAlphanumeric(char ch){
+        if((ch >= '0' && ch <= '9') || (tolower(ch) >= 'a' && tolower(ch) <= 'z')){
+            return true;
         }
-
-        return 1;
+        return false;
+    }
+    bool isPalindrome(string& s) {
+        // code here
+        int st = 0;
+        int end = s.size()-1;
+        
+        while(st<end){
+            if(!isAlphanumeric(s[st])){
+                st++; continue;
+            }
+            if(!isAlphanumeric(s[end])){
+                end--; continue;
+            }
+            
+            if(tolower(s[st]) != tolower(s[end])){
+                return false;
+            }
+            st++; end--;
+        }
+        return true;
     }
 };
-
-
-//{ Driver Code Starts.
-
-int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(NULL);
-    cout.tie(NULL);
-
-    int t;
-    cin >> t; // Read the number of test cases
-    while (t--) {
-        string s;
-        cin >> s; // Read the string
-
-        Solution ob; // Create an instance of Solution
-        if (ob.isPalindrome(s)) {
-            cout << "true"; // Print true if palindrome
-        } else {
-            cout << "false"; // Print false if not a palindrome
-        }
-        cout << "\n~\n"; // Print newline after each result
-    }
-
-    return 0;
-}
-
-// } Driver Code Ends
