@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/JV456/Problem-Solving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JV456/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/JV456/Problem-Solving/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/JV456/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/JV456/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/JV456/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JV456/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/JV456/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JV456/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JV456/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
