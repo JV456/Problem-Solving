@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JV456/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/JV456/Problem-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JV456/Problem-Solving/tree/master/0031-next-permutation) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/JV456/Problem-Solving/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/JV456/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JV456/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/JV456/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/JV456/Problem-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JV456/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
