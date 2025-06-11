@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JV456/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JV456/Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JV456/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/JV456/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/JV456/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JV456/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/JV456/Problem-Solving/tree/master/0945-snakes-and-ladders) |
 | [3227-find-missing-and-repeated-values](https://github.com/JV456/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JV456/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/JV456/Problem-Solving/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
 ## Topological Sort
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/JV456/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JV456/Problem-Solving/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JV456/Problem-Solving/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
