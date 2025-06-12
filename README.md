@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/JV456/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/JV456/Problem-Solving/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/JV456/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JV456/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JV456/Problem-Solving/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
@@ -402,10 +404,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JV456/Problem-Solving/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JV456/Problem-Solving/tree/master/3201-distribute-candies-among-children-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/JV456/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
