@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/JV456/Problem-Solving/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/JV456/Problem-Solving/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/JV456/Problem-Solving/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
