@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/JV456/Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/JV456/Problem-Solving/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JV456/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/JV456/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JV456/Problem-Solving/tree/master/0171-excel-sheet-column-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/JV456/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/JV456/Problem-Solving/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/JV456/Problem-Solving/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/JV456/Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JV456/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/JV456/Problem-Solving/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/JV456/Problem-Solving/tree/master/0089-gray-code) |
 ## Topological Sort
 |  |
 | ------- |
