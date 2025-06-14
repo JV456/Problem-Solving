@@ -8,7 +8,7 @@ public:
         while(!pq.empty()){
             int temp = pq.top();
             pq.pop();
-            if(pq.empty());
+            if(pq.empty()) break;
             maxa = max(maxa,temp-pq.top());
         }
         return maxa;
