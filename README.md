@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JV456/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/JV456/Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/JV456/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/JV456/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/JV456/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JV456/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JV456/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JV456/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/JV456/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/JV456/Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/JV456/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/JV456/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
