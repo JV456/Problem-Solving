@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JV456/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JV456/Problem-Solving/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/JV456/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/JV456/Problem-Solving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/JV456/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
