@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/JV456/Problem-Solving/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JV456/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JV456/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JV456/Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/JV456/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/JV456/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/JV456/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JV456/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/JV456/Problem-Solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/JV456/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/JV456/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
