@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JV456/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/JV456/Problem-Solving/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JV456/Problem-Solving/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/JV456/Problem-Solving/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JV456/Problem-Solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JV456/Problem-Solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JV456/Problem-Solving/tree/master/3201-distribute-candies-among-children-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/JV456/Problem-Solving/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JV456/Problem-Solving/tree/master/3201-distribute-candies-among-children-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/JV456/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
