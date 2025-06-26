@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JV456/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JV456/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JV456/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JV456/Problem-Solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JV456/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JV456/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JV456/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JV456/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JV456/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JV456/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/JV456/Problem-Solving/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JV456/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JV456/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JV456/Problem-Solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JV456/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Number Theory
 |  |
 | ------- |
