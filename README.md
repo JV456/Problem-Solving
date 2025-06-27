@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JV456/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/JV456/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JV456/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0459-repeated-substring-pattern](https://github.com/JV456/Problem-Solving/tree/master/0459-repeated-substring-pattern) |
 | [0868-push-dominoes](https://github.com/JV456/Problem-Solving/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JV456/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/JV456/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JV456/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JV456/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JV456/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/JV456/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JV456/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JV456/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JV456/Problem-Solving/tree/master/0204-count-primes) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/JV456/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JV456/Problem-Solving/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JV456/Problem-Solving/tree/master/3201-distribute-candies-among-children-ii) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/JV456/Problem-Solving/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/JV456/Problem-Solving/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/JV456/Problem-Solving/tree/master/0089-gray-code) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/JV456/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Topological Sort
 |  |
 | ------- |
