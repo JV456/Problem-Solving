@@ -76,7 +76,7 @@ public:
                 int c = path[i] - 'a';
                 if (pos >= n)
                 {
-                    
+                    return false;
                 }
 
                 pos = nextPos[pos][c];
