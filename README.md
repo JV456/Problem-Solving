@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/JV456/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JV456/Problem-Solving/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JV456/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JV456/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JV456/Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JV456/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JV456/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JV456/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JV456/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JV456/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JV456/Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JV456/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JV456/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JV456/Problem-Solving/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JV456/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/JV456/Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JV456/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JV456/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JV456/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
