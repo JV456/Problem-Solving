@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/JV456/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/JV456/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/JV456/Problem-Solving/tree/master/0475-heaters) |
+| [0594-longest-harmonious-subsequence](https://github.com/JV456/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/JV456/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/JV456/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/JV456/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/JV456/Problem-Solving/tree/master/0475-heaters) |
+| [0594-longest-harmonious-subsequence](https://github.com/JV456/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JV456/Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JV456/Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JV456/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/JV456/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/JV456/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/JV456/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/JV456/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/JV456/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/JV456/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JV456/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JV456/Problem-Solving/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JV456/Problem-Solving/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/JV456/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JV456/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JV456/Problem-Solving/tree/master/1986-largest-color-value-in-a-directed-graph) |
