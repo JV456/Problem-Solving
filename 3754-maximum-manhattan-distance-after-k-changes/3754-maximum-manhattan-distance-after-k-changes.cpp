@@ -9,7 +9,7 @@ public:
                 case 'N':N++; break;
                 case 'S':S++; break;
                 case 'E':E++; break;
-                
+                case 'W':W++; break;
             }
             const int d=abs(N-S)+abs(E-W)+2*k;
             dist=max(dist, min(d, i+1));
