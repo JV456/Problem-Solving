@@ -3,7 +3,7 @@ class Solution {
 
 public:
     int possibleStringCount(std::string word, int k) {
-        if (word.empty()) return 0;
+        
 
         std::vector<int> groups;
         int count = 1;
