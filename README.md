@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/JV456/Problem-Solving/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/JV456/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/JV456/Problem-Solving/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JV456/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JV456/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JV456/Problem-Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/JV456/Problem-Solving/tree/master/3637-count-number-of-balanced-permutations) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/JV456/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JV456/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/JV456/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JV456/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JV456/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/JV456/Problem-Solving/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/JV456/Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JV456/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
