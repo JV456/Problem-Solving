@@ -6,7 +6,7 @@ public:
 
         while (k) {
             s += (k & 1) + '0';
-            
+            k >>= 1;
         }
 
         int res = 0;
