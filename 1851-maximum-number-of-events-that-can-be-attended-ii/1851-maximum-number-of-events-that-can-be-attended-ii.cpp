@@ -40,7 +40,7 @@ private:
             if (events[mid][1] < targetStart) 
             {
                 res = mid;
-                
+                left = mid + 1;
             } 
             else 
             {
