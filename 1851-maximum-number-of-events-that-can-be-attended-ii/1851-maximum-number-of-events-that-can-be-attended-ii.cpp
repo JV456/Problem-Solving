@@ -14,7 +14,7 @@ public:
         for (int i = 1; i <= n; ++i) 
         {
             int start = events[i - 1][0];
-            
+            int end = events[i - 1][1];
             int value = events[i - 1][2];
 
             int prev = binarySearch(events, i - 1, start);
@@ -40,7 +40,7 @@ private:
             if (events[mid][1] < targetStart) 
             {
                 res = mid;
-                left = mid + 1;
+                
             } 
             else 
             {
