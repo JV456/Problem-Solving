@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JV456/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/JV456/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JV456/Problem-Solving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/JV456/Problem-Solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JV456/Problem-Solving/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JV456/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/JV456/Problem-Solving/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JV456/Problem-Solving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/JV456/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/JV456/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JV456/Problem-Solving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/JV456/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
