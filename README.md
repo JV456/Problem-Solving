@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/JV456/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/JV456/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/JV456/Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/JV456/Problem-Solving/tree/master/0890-lemonade-change) |
 | [0945-snakes-and-ladders](https://github.com/JV456/Problem-Solving/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1168-duplicate-zeros](https://github.com/JV456/Problem-Solving/tree/master/1168-duplicate-zeros) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/JV456/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/JV456/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JV456/Problem-Solving/tree/master/0621-task-scheduler) |
+| [0890-lemonade-change](https://github.com/JV456/Problem-Solving/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JV456/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JV456/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JV456/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
