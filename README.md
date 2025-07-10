@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/JV456/Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JV456/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JV456/Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JV456/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JV456/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JV456/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JV456/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/JV456/Problem-Solving/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/JV456/Problem-Solving/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/JV456/Problem-Solving/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/JV456/Problem-Solving/tree/master/0409-longest-palindrome) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JV456/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/JV456/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JV456/Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JV456/Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JV456/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/JV456/Problem-Solving/tree/master/0096-unique-binary-search-trees) |
