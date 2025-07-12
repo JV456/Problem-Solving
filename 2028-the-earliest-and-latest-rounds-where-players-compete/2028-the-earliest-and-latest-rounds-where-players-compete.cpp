@@ -14,7 +14,7 @@ public:
         
         if (n <= 4) 
         {
-            
+            return {2, 2};
         }
 
         int m = (n + 1) / 2;
