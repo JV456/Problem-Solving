@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/JV456/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JV456/Problem-Solving/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/JV456/Problem-Solving/tree/master/0492-construct-the-rectangle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JV456/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JV456/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JV456/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/JV456/Problem-Solving/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JV456/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JV456/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
