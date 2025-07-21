@@ -10,7 +10,7 @@ public:
             if (s[i] == last) {
                 count++;
                 if (count < 3)
-                    ans.push_back(s[i]);
+                ans.push_back(s[i]);    
             } else {
                 last = s[i];
                 count = 1;
