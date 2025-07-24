@@ -48,7 +48,7 @@ public:
                     dfs2(y, x, son, x);
                 }
             }
-            
+            return son;
         };
 
         dfs(0, -1);
