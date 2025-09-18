@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/JV456/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/JV456/Problem-Solving/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/JV456/Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/JV456/Problem-Solving/tree/master/0342-power-of-four) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/JV456/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JV456/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/JV456/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JV456/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JV456/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
